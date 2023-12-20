@@ -1,6 +1,6 @@
 <div align="center">
 <h2>About Me</h2>
-The Catholic University of Korea.Computer Engineering
+The Catholic University of Korea. Computer Engineering
 <h2>Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
