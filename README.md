@@ -18,5 +18,5 @@ The Catholic University of Korea. Computer Engineering
 </p>
 <h2>Experience</h2>
 2023 멋쟁이 사자처럼 BE (SpringBoot) <br>
-2023 GDSC BE (SpringBoot)
+2023 2024 GDSC BE (SpringBoot)
 </div>
